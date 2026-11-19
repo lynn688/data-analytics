@@ -32,7 +32,7 @@ SQL (MySQL), Power BI, VS Code.
 
 ## Data Cleaning
 
-The raw tables were never edited. All cleaning is done in SQL views, in [`sql/cleaning.sql`](sql/cleaning.sql).
+The raw tables were never edited. All cleaning is done in SQL views, in [`sql/cleaning.sql`].
 
 | Problem found | What I did |
 |---|---|
