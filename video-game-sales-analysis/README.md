@@ -19,7 +19,7 @@ The video game industry is expensive to enter. A single title can cost millions 
 
 ## Data
 
-- **Source:** VGChartz, 2024 data set (add the link to where you downloaded it)
+- **Source:** VGChartz, 2024 data set [https://mavenanalytics.io/data-playground/video-game-sales]
 - **Size:** 64,016 rows and 14 columns
 - **Key columns:** title, console, genre, publisher, developer, critic score, sales by region (North America, Japan, Europe/Africa, rest of world), total sales, release date
 - **Units:** sales are in millions of copies
@@ -135,4 +135,4 @@ video-game-sales-analysis/
 
 ## About Me
 
-Your name | [LinkedIn](#) | your.email@example.com
+Lynn Nderitu | [LinkedIn](#) | lynnnderitu612@gmail.com

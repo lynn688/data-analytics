@@ -19,7 +19,7 @@ Keeping an existing customer costs far less than winning a new one, so a bank wa
 
 ## Data
 
-- **Source:** (add the link to where you downloaded the data)
+- **Source:** [https://mavenanalytics.io/data-playground/bank-customer-churn]
 - **Size:** 10,000 customers
 - **Files:** a messy Excel workbook with two sheets (`Customer_Info`, `Account_Info`), a clean CSV version of the same data, and a data dictionary
 - **Key columns:** customer ID, geography, gender, age, tenure, balance, number of products, active member flag, estimated salary, credit score, and `Exited` (1 = the customer left)
