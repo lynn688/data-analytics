@@ -36,6 +36,13 @@ and the organization row from the CSV files.
 [`sql/analysis.sql`](sql/analysis.sql) queries encounter trends and lengths, costs and payer
 coverage, common procedures, unique patients by quarter, and returns within 30 days.
 
+## Dashboard-style Visuals
+
+These SVG previews summarize the analysis; they are not screenshots exported from a Power BI file.
+
+![Encounter overview](images/overview.svg)
+![Costs and coverage](images/costs_and_coverage.svg)
+
 ## Reproduce
 
 1. Use a disposable MySQL database environment. `sql/create_hospital_db.sql` starts with

@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="960" viewBox="0 0 1440 960">
+<rect x="0" y="0" width="1440" height="960" rx="0" fill="#F3F6F9" stroke="none"/>
+<rect x="0" y="0" width="1440" height="82" rx="0" fill="#14283F" stroke="none"/>
+<text x="42" y="38" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="27" font-weight="700" text-anchor="start">HOSPITAL PATIENT RECORDS</text>
+<text x="42" y="63" fill="#C6D5E2" font-family="Arial, sans-serif" font-size="13" font-weight="400" text-anchor="start">Costs and coverage  |  Payer, procedure and encounter-reason views</text>
+<rect x="36" y="101" width="440" height="105" rx="12" fill="#FFFFFF" stroke="#E6ECF1"/>
+<rect x="36" y="101" width="5" height="105" rx="3" fill="#5C88D8" stroke="none"/>
+<text x="58" y="130" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="start">TOTAL CLAIM COST</text>
+<text x="58" y="169" fill="#20354B" font-family="Arial, sans-serif" font-size="30" font-weight="700" text-anchor="start">101,514,376</text>
+<text x="58" y="191" fill="#6F8091" font-family="Arial, sans-serif" font-size="12" font-weight="400" text-anchor="start">Sum across all encounter claims; source units</text>
+<rect x="500" y="101" width="440" height="105" rx="12" fill="#FFFFFF" stroke="#E6ECF1"/>
+<rect x="500" y="101" width="5" height="105" rx="3" fill="#159C8C" stroke="none"/>
+<text x="522" y="130" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="start">PAYER COVERAGE</text>
+<text x="522" y="169" fill="#20354B" font-family="Arial, sans-serif" font-size="30" font-weight="700" text-anchor="start">30.6%</text>
+<text x="522" y="191" fill="#6F8091" font-family="Arial, sans-serif" font-size="12" font-weight="400" text-anchor="start">Coverage divided by total claim cost</text>
+<rect x="964" y="101" width="440" height="105" rx="12" fill="#FFFFFF" stroke="#E6ECF1"/>
+<rect x="964" y="101" width="5" height="105" rx="3" fill="#F0A84A" stroke="none"/>
+<text x="986" y="130" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="start">ZERO-COVERAGE ENCOUNTERS</text>
+<text x="986" y="169" fill="#20354B" font-family="Arial, sans-serif" font-size="30" font-weight="700" text-anchor="start">13,586</text>
+<text x="986" y="191" fill="#6F8091" font-family="Arial, sans-serif" font-size="12" font-weight="400" text-anchor="start">48.7% of encounters</text>
+<rect x="36" y="228" width="672" height="310" rx="12" fill="#FFFFFF" stroke="#E6ECF1"/>
+<text x="56" y="258" fill="#20354B" font-family="Arial, sans-serif" font-size="17" font-weight="700" text-anchor="start">Coverage by payer</text>
+<text x="56" y="279" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start">Top payers by encounter count; share of claims covered</text>
+<text x="56" y="316.3222222222222" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Medicare</text>
+<rect x="226" y="306.05555555555554" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="306.05555555555554" width="272.0904779218785" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="316.3222222222222" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">78.0% covered  |  11,371 visits</text>
+<text x="56" y="341.4333333333333" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">No insurance</text>
+<rect x="226" y="331.16666666666663" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="331.16666666666663" width="0" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="341.4333333333333" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">0.0% covered  |  8,807 visits</text>
+<text x="56" y="366.5444444444445" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Medicaid</text>
+<rect x="226" y="356.27777777777777" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="356.27777777777777" width="328.1025061748529" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="366.5444444444445" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">94.0% covered  |  1,443 visits</text>
+<text x="56" y="391.65555555555557" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Humana</text>
+<rect x="226" y="381.38888888888886" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="381.38888888888886" width="2" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="391.65555555555557" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">0.1% covered  |  1,084 visits</text>
+<text x="56" y="416.76666666666665" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Aetna</text>
+<rect x="226" y="406.5" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="406.5" width="2" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="416.76666666666665" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">0.1% covered  |  936 visits</text>
+<text x="56" y="441.87777777777774" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Blue Cross Blue Shield</text>
+<rect x="226" y="431.6111111111111" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="431.6111111111111" width="241.15895664943488" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="441.87777777777774" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">69.1% covered  |  925 visits</text>
+<text x="56" y="466.9888888888888" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Dual Eligible</text>
+<rect x="226" y="456.7222222222222" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="456.7222222222222" width="311.4992906868083" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="466.9888888888888" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">89.3% covered  |  912 visits</text>
+<text x="56" y="492.1" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">UnitedHealthcare</text>
+<rect x="226" y="481.8333333333333" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="481.8333333333333" width="2" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="492.1" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">0.2% covered  |  900 visits</text>
+<text x="56" y="517.2111111111111" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Cigna Health</text>
+<rect x="226" y="506.94444444444446" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="506.94444444444446" width="2" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="517.2111111111111" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">0.0% covered  |  809 visits</text>
+<rect x="732" y="228" width="672" height="310" rx="12" fill="#FFFFFF" stroke="#E6ECF1"/>
+<text x="752" y="258" fill="#20354B" font-family="Arial, sans-serif" font-size="17" font-weight="700" text-anchor="start">Most common procedures</text>
+<text x="752" y="279" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start">Top procedure descriptions by number of records</text>
+<text x="752" y="318.3625" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Assessment of health and social care needs</text>
+<rect x="922" y="307.625" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="307.625" width="317.27272727272725" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="318.3625" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">4,596 procedures</text>
+<text x="752" y="346.6125" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Hospice care</text>
+<rect x="922" y="335.875" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="335.875" width="282.89461191549964" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="346.6125" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">4,098 procedures</text>
+<text x="752" y="374.8625" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Depression screening</text>
+<rect x="922" y="364.125" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="364.125" width="262.5990980299074" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="374.8625" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">3,804 procedures</text>
+<text x="752" y="403.1125" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Depression screening using Patient Health Questionnaire Two-Item score</text>
+<rect x="922" y="392.375" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="392.375" width="249.48294960044305" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="403.1125" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">3,614 procedures</text>
+<text x="752" y="431.3625" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Assessment of substance use</text>
+<rect x="922" y="420.625" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="420.625" width="200.60803861064957" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="431.3625" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">2,906 procedures</text>
+<text x="752" y="459.6125" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Renal dialysis</text>
+<rect x="922" y="448.875" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="448.875" width="189.56286098583746" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="459.6125" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">2,746 procedures</text>
+<text x="752" y="487.8625" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Assessment using Morse Fall Scale</text>
+<rect x="922" y="477.125" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="477.125" width="167.19637629559298" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="487.8625" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">2,422 procedures</text>
+<text x="752" y="516.1125" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Assessment of anxiety</text>
+<rect x="922" y="505.375" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="505.375" width="157.94604003481288" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="516.1125" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">2,288 procedures</text>
+<rect x="36" y="554" width="672" height="310" rx="12" fill="#FFFFFF" stroke="#E6ECF1"/>
+<text x="56" y="584" fill="#20354B" font-family="Arial, sans-serif" font-size="17" font-weight="700" text-anchor="start">Most common encounter reasons</text>
+<text x="56" y="605" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start">Blank or unspecified reasons are excluded</text>
+<text x="56" y="644.3625" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Chronic congestive heart failure</text>
+<rect x="226" y="633.625" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="633.625" width="317.27272727272725" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="644.3625" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">1,738 encounters</text>
+<text x="56" y="672.6125" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Hyperlipidemia</text>
+<rect x="226" y="661.875" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="661.875" width="285.6914949262475" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="672.6125" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">1,565 encounters</text>
+<text x="56" y="700.8625" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Normal pregnancy</text>
+<rect x="226" y="690.125" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="690.125" width="244.8001883042159" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="700.8625" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">1,341 encounters</text>
+<text x="56" y="729.1125" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Viral sinusitis</text>
+<rect x="226" y="718.375" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="718.375" width="133.62694842556752" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="729.1125" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">732 encounters</text>
+<text x="56" y="757.3625" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Malignant neoplasm of breast</text>
+<rect x="226" y="746.625" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="746.625" width="131.9839941416466" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="757.3625" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">723 encounters</text>
+<text x="56" y="785.6125" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Acute viral pharyngitis</text>
+<rect x="226" y="774.875" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="774.875" width="73.02019039648498" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="785.6125" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">400 encounters</text>
+<text x="56" y="813.8625" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Acute bronchitis</text>
+<rect x="226" y="803.125" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="803.125" width="64.25776754890678" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="813.8625" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">352 encounters</text>
+<text x="56" y="842.1125" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Alzheimer's disease</text>
+<rect x="226" y="831.375" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="831.375" width="34.86714091432158" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="842.1125" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">191 encounters</text>
+<rect x="732" y="554" width="672" height="310" rx="12" fill="#FFFFFF" stroke="#E6ECF1"/>
+<text x="752" y="584" fill="#20354B" font-family="Arial, sans-serif" font-size="17" font-weight="700" text-anchor="start">Average claim cost by encounter class</text>
+<text x="752" y="605" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start">Average total claim cost per encounter; source units</text>
+<text x="752" y="650.4833333333333" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Inpatient</text>
+<rect x="922" y="638.3333333333334" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="638.3333333333334" width="311.6071428571428" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="650.4833333333333" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">7,761 average</text>
+<text x="752" y="688.15" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Urgent care</text>
+<rect x="922" y="676" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="676" width="255.7127404537429" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="688.15" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">6,369 average</text>
+<text x="752" y="725.8166666666667" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Emergency</text>
+<rect x="922" y="713.6666666666667" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="713.6666666666667" width="185.87387945589413" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="725.8166666666667" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">4,630 average</text>
+<text x="752" y="763.4833333333333" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Wellness</text>
+<rect x="922" y="751.3333333333334" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="751.3333333333334" width="171.061409527433" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="763.4833333333333" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">4,261 average</text>
+<text x="752" y="801.15" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Ambulatory</text>
+<rect x="922" y="789" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="789" width="116.19431295537998" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="801.15" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">2,894 average</text>
+<text x="752" y="838.8166666666666" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Outpatient</text>
+<rect x="922" y="826.6666666666666" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="826.6666666666666" width="89.8242398079035" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="838.8166666666666" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">2,237 average</text>
+<text x="42" y="940" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start">Source: hospital_patient_records_analysis/data/raw CSVs  |  Amounts use the source data units.</text>
+<text x="1398" y="940" fill="#6F8091" font-family="Arial, sans-serif" font-size="10" font-weight="700" text-anchor="end">DATA ANALYTICS PORTFOLIO</text>
+</svg>

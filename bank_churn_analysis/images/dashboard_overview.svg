@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="960" viewBox="0 0 1440 960">
+<rect x="0" y="0" width="1440" height="960" rx="0" fill="#F3F6F9" stroke="none"/>
+<rect x="0" y="0" width="1440" height="82" rx="0" fill="#14283F" stroke="none"/>
+<text x="42" y="38" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="27" font-weight="700" text-anchor="start">BANK CUSTOMER CHURN</text>
+<text x="42" y="63" fill="#C6D5E2" font-family="Arial, sans-serif" font-size="13" font-weight="400" text-anchor="start">Customer retention overview  |  Cleaned dataset: 10,000 customers</text>
+<rect x="36" y="101" width="440" height="105" rx="12" fill="#FFFFFF" stroke="#E6ECF1"/>
+<rect x="36" y="101" width="5" height="105" rx="3" fill="#5C88D8" stroke="none"/>
+<text x="58" y="130" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="start">CUSTOMERS</text>
+<text x="58" y="169" fill="#20354B" font-family="Arial, sans-serif" font-size="30" font-weight="700" text-anchor="start">10,000</text>
+<text x="58" y="191" fill="#6F8091" font-family="Arial, sans-serif" font-size="12" font-weight="400" text-anchor="start">Customer base in the cleaned file</text>
+<rect x="500" y="101" width="440" height="105" rx="12" fill="#FFFFFF" stroke="#E6ECF1"/>
+<rect x="500" y="101" width="5" height="105" rx="3" fill="#E46C65" stroke="none"/>
+<text x="522" y="130" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="start">CUSTOMERS CHURNED</text>
+<text x="522" y="169" fill="#20354B" font-family="Arial, sans-serif" font-size="30" font-weight="700" text-anchor="start">2,037</text>
+<text x="522" y="191" fill="#6F8091" font-family="Arial, sans-serif" font-size="12" font-weight="400" text-anchor="start">Exited = 1</text>
+<rect x="964" y="101" width="440" height="105" rx="12" fill="#FFFFFF" stroke="#E6ECF1"/>
+<rect x="964" y="101" width="5" height="105" rx="3" fill="#159C8C" stroke="none"/>
+<text x="986" y="130" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="start">OVERALL CHURN RATE</text>
+<text x="986" y="169" fill="#20354B" font-family="Arial, sans-serif" font-size="30" font-weight="700" text-anchor="start">20.4%</text>
+<text x="986" y="191" fill="#6F8091" font-family="Arial, sans-serif" font-size="12" font-weight="400" text-anchor="start">Baseline for segment comparisons</text>
+<rect x="36" y="228" width="672" height="310" rx="12" fill="#FFFFFF" stroke="#E6ECF1"/>
+<text x="56" y="258" fill="#20354B" font-family="Arial, sans-serif" font-size="17" font-weight="700" text-anchor="start">Churn rate by country</text>
+<text x="56" y="279" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start">Germany has the highest observed churn rate</text>
+<text x="56" y="348.9666666666667" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Germany</text>
+<rect x="226" y="331.1666666666667" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="331.1666666666667" width="283.06695894778795" height="13" rx="4" fill="#E46C65" stroke="none"/>
+<text x="690" y="348.9666666666667" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">32.4%  |  2,509 customers</text>
+<text x="56" y="424.29999999999995" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Spain</text>
+<rect x="226" y="406.5" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="406.5" width="145.4753734356076" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="424.29999999999995" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">16.7%  |  2,477 customers</text>
+<text x="56" y="499.6333333333333" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">France</text>
+<rect x="226" y="481.8333333333333" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="481.8333333333333" width="140.95033905065816" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="499.6333333333333" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">16.2%  |  5,014 customers</text>
+<rect x="732" y="228" width="672" height="310" rx="12" fill="#FFFFFF" stroke="#E6ECF1"/>
+<text x="752" y="258" fill="#20354B" font-family="Arial, sans-serif" font-size="17" font-weight="700" text-anchor="start">Churn rate by age band</text>
+<text x="752" y="279" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start">Rates rise sharply in the 40-59 age groups</text>
+<text x="752" y="329.38" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">18-29</text>
+<rect x="922" y="316.1" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="316.1" width="43.95287426366037" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="329.38" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">7.6%  |  1,641</text>
+<text x="752" y="374.58" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">30-39</text>
+<rect x="922" y="361.3" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="361.3" width="63.33525168815224" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="374.58" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">10.9%  |  4,344</text>
+<text x="752" y="419.78" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">40-49</text>
+<rect x="922" y="406.5" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="406.5" width="179.1453318048656" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="419.78" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">30.8%  |  2,617</text>
+<text x="752" y="464.98" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">50-59</text>
+<rect x="922" y="451.70000000000005" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="451.70000000000005" width="325.97429996164175" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="464.98" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">56.0%  |  869</text>
+<text x="752" y="510.18" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">60+</text>
+<rect x="922" y="496.90000000000003" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="496.90000000000003" width="162.55703422053233" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="510.18" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">27.9%  |  526</text>
+<rect x="36" y="554" width="672" height="310" rx="12" fill="#FFFFFF" stroke="#E6ECF1"/>
+<text x="56" y="584" fill="#20354B" font-family="Arial, sans-serif" font-size="17" font-weight="700" text-anchor="start">Churn rate by gender</text>
+<text x="56" y="605" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start">Descriptive comparison; not a causal explanation</text>
+<text x="56" y="699.45" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Female</text>
+<rect x="226" y="676" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="676" width="291.6655660723457" height="13" rx="4" fill="#F0A84A" stroke="none"/>
+<text x="690" y="699.45" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">25.1%  |  4,543</text>
+<text x="56" y="812.45" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Male</text>
+<rect x="226" y="789" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="789" width="191.43729766049722" height="13" rx="4" fill="#5C88D8" stroke="none"/>
+<text x="690" y="812.45" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">16.5%  |  5,457</text>
+<rect x="732" y="554" width="672" height="310" rx="12" fill="#FFFFFF" stroke="#E6ECF1"/>
+<text x="752" y="584" fill="#20354B" font-family="Arial, sans-serif" font-size="17" font-weight="700" text-anchor="start">Churn rate by account activity</text>
+<text x="752" y="605" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start">Inactive customers leave more often in this dataset</text>
+<text x="752" y="699.45" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Active</text>
+<rect x="922" y="676" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="676" width="165.99689380702776" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="699.45" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">14.3%  |  5,151</text>
+<text x="752" y="812.45" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Inactive</text>
+<rect x="922" y="789" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="789" width="312.3654361724067" height="13" rx="4" fill="#E46C65" stroke="none"/>
+<text x="1386" y="812.45" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">26.9%  |  4,849</text>
+<text x="42" y="940" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start">Source: bank_churn_analysis/data/churn_clean.csv  |  Rates are descriptive, not causal.</text>
+<text x="1398" y="940" fill="#6F8091" font-family="Arial, sans-serif" font-size="10" font-weight="700" text-anchor="end">DATA ANALYTICS PORTFOLIO</text>
+</svg>

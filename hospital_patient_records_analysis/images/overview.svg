@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="960" viewBox="0 0 1440 960">
+<rect x="0" y="0" width="1440" height="960" rx="0" fill="#F3F6F9" stroke="none"/>
+<rect x="0" y="0" width="1440" height="82" rx="0" fill="#14283F" stroke="none"/>
+<text x="42" y="38" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="27" font-weight="700" text-anchor="start">HOSPITAL PATIENT RECORDS</text>
+<text x="42" y="63" fill="#C6D5E2" font-family="Arial, sans-serif" font-size="13" font-weight="400" text-anchor="start">Encounter overview  |  2011-2022, with partial years at both ends</text>
+<rect x="36" y="101" width="440" height="105" rx="12" fill="#FFFFFF" stroke="#E6ECF1"/>
+<rect x="36" y="101" width="5" height="105" rx="3" fill="#5C88D8" stroke="none"/>
+<text x="58" y="130" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="start">ENCOUNTERS</text>
+<text x="58" y="169" fill="#20354B" font-family="Arial, sans-serif" font-size="30" font-weight="700" text-anchor="start">27,891</text>
+<text x="58" y="191" fill="#6F8091" font-family="Arial, sans-serif" font-size="12" font-weight="400" text-anchor="start">One row per encounter</text>
+<rect x="500" y="101" width="440" height="105" rx="12" fill="#FFFFFF" stroke="#E6ECF1"/>
+<rect x="500" y="101" width="5" height="105" rx="3" fill="#159C8C" stroke="none"/>
+<text x="522" y="130" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="start">PATIENTS</text>
+<text x="522" y="169" fill="#20354B" font-family="Arial, sans-serif" font-size="30" font-weight="700" text-anchor="start">974</text>
+<text x="522" y="191" fill="#6F8091" font-family="Arial, sans-serif" font-size="12" font-weight="400" text-anchor="start">Unique patient records</text>
+<rect x="964" y="101" width="440" height="105" rx="12" fill="#FFFFFF" stroke="#E6ECF1"/>
+<rect x="964" y="101" width="5" height="105" rx="3" fill="#F0A84A" stroke="none"/>
+<text x="986" y="130" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="start">RETURNS WITHIN 30 DAYS</text>
+<text x="986" y="169" fill="#20354B" font-family="Arial, sans-serif" font-size="30" font-weight="700" text-anchor="start">16,786</text>
+<text x="986" y="191" fill="#6F8091" font-family="Arial, sans-serif" font-size="12" font-weight="400" text-anchor="start">770 patients had at least one return</text>
+<rect x="36" y="228" width="672" height="310" rx="12" fill="#FFFFFF" stroke="#E6ECF1"/>
+<text x="56" y="258" fill="#20354B" font-family="Arial, sans-serif" font-size="17" font-weight="700" text-anchor="start">Encounters by year</text>
+<text x="56" y="279" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start">2022 contains data through February 5 only</text>
+<line x1="78" y1="303" x2="690" y2="303" stroke="#E6ECF1"/>
+<line x1="78" y1="369" x2="690" y2="369" stroke="#E6ECF1"/>
+<line x1="78" y1="435" x2="690" y2="435" stroke="#E6ECF1"/>
+<line x1="78" y1="501" x2="690" y2="501" stroke="#E6ECF1"/>
+<rect x="87.69" y="440.2057363485935" width="31.62" height="60.794263651406496" rx="4" fill="#159C8C" stroke="none"/>
+<text x="103.5" y="521" fill="#6F8091" font-family="Arial, sans-serif" font-size="10" font-weight="400" text-anchor="middle">2011</text>
+<rect x="138.69" y="405.1671263099835" width="31.62" height="95.83287369001653" rx="4" fill="#159C8C" stroke="none"/>
+<text x="154.5" y="521" fill="#6F8091" font-family="Arial, sans-serif" font-size="10" font-weight="400" text-anchor="middle">2012</text>
+<rect x="189.69" y="387.4658025372311" width="31.62" height="113.53419746276887" rx="4" fill="#159C8C" stroke="none"/>
+<text x="205.5" y="521" fill="#6F8091" font-family="Arial, sans-serif" font-size="10" font-weight="400" text-anchor="middle">2013</text>
+<rect x="240.69" y="324.2142857142858" width="31.62" height="176.78571428571425" rx="4" fill="#159C8C" stroke="none"/>
+<text x="256.5" y="521" fill="#6F8091" font-family="Arial, sans-serif" font-size="10" font-weight="400" text-anchor="middle">2014</text>
+<rect x="291.69" y="388.64892443463873" width="31.62" height="112.35107556536126" rx="4" fill="#159C8C" stroke="none"/>
+<text x="307.5" y="521" fill="#6F8091" font-family="Arial, sans-serif" font-size="10" font-weight="400" text-anchor="middle">2015</text>
+<rect x="342.69" y="389.4680088251517" width="31.62" height="111.5319911748483" rx="4" fill="#159C8C" stroke="none"/>
+<text x="358.5" y="521" fill="#6F8091" font-family="Arial, sans-serif" font-size="10" font-weight="400" text-anchor="middle">2016</text>
+<rect x="393.69" y="393.6089354660783" width="31.62" height="107.39106453392166" rx="4" fill="#159C8C" stroke="none"/>
+<text x="409.5" y="521" fill="#6F8091" font-family="Arial, sans-serif" font-size="10" font-weight="400" text-anchor="middle">2017</text>
+<rect x="444.69" y="396.7032542746829" width="31.62" height="104.29674572531714" rx="4" fill="#159C8C" stroke="none"/>
+<text x="460.5" y="521" fill="#6F8091" font-family="Arial, sans-serif" font-size="10" font-weight="400" text-anchor="middle">2018</text>
+<rect x="495.69" y="399.61555432984005" width="31.62" height="101.38444567015993" rx="4" fill="#159C8C" stroke="none"/>
+<text x="511.5" y="521" fill="#6F8091" font-family="Arial, sans-serif" font-size="10" font-weight="400" text-anchor="middle">2019</text>
+<rect x="546.69" y="386.3736900165472" width="31.62" height="114.62630998345283" rx="4" fill="#159C8C" stroke="none"/>
+<text x="562.5" y="521" fill="#6F8091" font-family="Arial, sans-serif" font-size="10" font-weight="400" text-anchor="middle">2020</text>
+<rect x="597.69" y="340.3684500827358" width="31.62" height="160.63154991726418" rx="4" fill="#159C8C" stroke="none"/>
+<text x="613.5" y="521" fill="#6F8091" font-family="Arial, sans-serif" font-size="10" font-weight="400" text-anchor="middle">2021</text>
+<rect x="648.69" y="490.98896856039715" width="31.62" height="10.011031439602867" rx="4" fill="#159C8C" stroke="none"/>
+<text x="664.5" y="521" fill="#6F8091" font-family="Arial, sans-serif" font-size="10" font-weight="400" text-anchor="middle">2022</text>
+<rect x="732" y="228" width="672" height="310" rx="12" fill="#FFFFFF" stroke="#E6ECF1"/>
+<text x="752" y="258" fill="#20354B" font-family="Arial, sans-serif" font-size="17" font-weight="700" text-anchor="start">Encounters by class</text>
+<text x="752" y="279" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start">Share of all encounters shown beside each count</text>
+<text x="752" y="324.48333333333335" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Ambulatory</text>
+<rect x="922" y="312.3333333333333" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="312.3333333333333" width="311.60714285714283" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="324.48333333333335" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">12,537  |  44.9%</text>
+<text x="752" y="362.15000000000003" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Outpatient</text>
+<rect x="922" y="350" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="350" width="156.58650394831298" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="362.15000000000003" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">6,300  |  22.6%</text>
+<text x="752" y="399.81666666666666" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Urgent care</text>
+<rect x="922" y="387.66666666666663" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="387.66666666666663" width="91.11843229754213" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="399.81666666666666" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">3,666  |  13.1%</text>
+<text x="752" y="437.48333333333335" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Emergency</text>
+<rect x="922" y="425.3333333333333" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="425.3333333333333" width="57.713311455235356" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="437.48333333333335" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">2,322  |  8.3%</text>
+<text x="752" y="475.15" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Wellness</text>
+<rect x="922" y="462.99999999999994" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="462.99999999999994" width="47.99500621018927" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="475.15" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">1,931  |  6.9%</text>
+<text x="752" y="512.8166666666666" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Inpatient</text>
+<rect x="922" y="500.66666666666663" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="500.66666666666663" width="28.210425711323055" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="512.8166666666666" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">1,135  |  4.1%</text>
+<rect x="36" y="554" width="672" height="310" rx="12" fill="#FFFFFF" stroke="#E6ECF1"/>
+<text x="56" y="584" fill="#20354B" font-family="Arial, sans-serif" font-size="17" font-weight="700" text-anchor="start">Encounter volume by patient age band</text>
+<text x="56" y="605" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start">Age at death, or at the dataset end date for living patients</text>
+<text x="56" y="655.38" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">30-44</text>
+<rect x="226" y="642.1" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="642.1" width="60.50469412108518" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="655.38" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">3,417 visits  |  153 patients</text>
+<text x="56" y="700.58" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Under 30</text>
+<rect x="226" y="687.3000000000001" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="687.3000000000001" width="2" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="700.58" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">14 visits  |  2 patients</text>
+<text x="56" y="745.78" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">45-59</text>
+<rect x="226" y="732.5" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="732.5" width="59.44227631386683" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="745.78" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">3,357 visits  |  186 patients</text>
+<text x="56" y="790.98" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">60-74</text>
+<rect x="226" y="777.7" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="777.7" width="62.062906905005434" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="790.98" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">3,505 visits  |  182 patients</text>
+<text x="56" y="836.18" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">75+</text>
+<rect x="226" y="822.9" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="822.9" width="311.60714285714283" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="836.18" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">17,598 visits  |  451 patients</text>
+<rect x="732" y="554" width="672" height="310" rx="12" fill="#FFFFFF" stroke="#E6ECF1"/>
+<text x="752" y="584" fill="#20354B" font-family="Arial, sans-serif" font-size="17" font-weight="700" text-anchor="start">Encounters lasting over 24 hours</text>
+<text x="752" y="605" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start">75 of 27,891 encounters (over 24 hours)</text>
+<text x="752" y="650.4833333333333" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Inpatient</text>
+<rect x="922" y="638.3333333333334" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="638.3333333333334" width="17.834361233480177" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="650.4833333333333" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">5.1%  |  1,135 visits</text>
+<text x="752" y="688.15" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Emergency</text>
+<rect x="922" y="676" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="676" width="2" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="688.15" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">0.2%  |  2,322 visits</text>
+<text x="752" y="725.8166666666667" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Outpatient</text>
+<rect x="922" y="713.6666666666667" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="713.6666666666667" width="2" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="725.8166666666667" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">0.1%  |  6,300 visits</text>
+<text x="752" y="763.4833333333333" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Ambulatory</text>
+<rect x="922" y="751.3333333333334" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="751.3333333333334" width="2" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="763.4833333333333" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">0.0%  |  12,537 visits</text>
+<text x="752" y="801.15" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Wellness</text>
+<rect x="922" y="789" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="789" width="0" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="801.15" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">0.0%  |  1,931 visits</text>
+<text x="752" y="838.8166666666666" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Urgent care</text>
+<rect x="922" y="826.6666666666666" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="826.6666666666666" width="0" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="838.8166666666666" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">0.0%  |  3,666 visits</text>
+<text x="42" y="940" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start">Source: hospital_patient_records_analysis/data/raw CSVs  |  75 encounters lasted over 24 hours.</text>
+<text x="1398" y="940" fill="#6F8091" font-family="Arial, sans-serif" font-size="10" font-weight="700" text-anchor="end">DATA ANALYTICS PORTFOLIO</text>
+</svg>

@@ -11,7 +11,7 @@ Hi, I'm **Lynn Njeri Nderitu**, a data analyst based in Nairobi, Kenya. I have a
 ### 1. Bank Customer Churn Analysis
 [View project](bank_churn_analysis/)
 
-![Bank churn dashboard](bank_churn_analysis/images/dashboard_overview.png)
+![Bank churn dashboard-style visual](bank_churn_analysis/images/dashboard_overview.svg)
 
 **Question:** Which customers are most likely to leave a bank, and what do they have in common?
 
@@ -21,7 +21,7 @@ Hi, I'm **Lynn Njeri Nderitu**, a data analyst based in Nairobi, Kenya. I have a
 - Cleaned a messy 10,000-customer dataset (duplicates, inconsistent country names, placeholder values) using SQL views, without editing the raw tables.
 - 20.4% of customers left. Germany churns about twice as much as France or Spain.
 - The highest-risk group is inactive customers aged 50 and over, with churn of roughly 78% to 89%.
-- Delivered a two-page Power BI dashboard with recommendations for retention.
+- Created two dashboard-style SVG visual previews with recommendations for retention.
 
 ---
 
@@ -44,6 +44,8 @@ Hi, I'm **Lynn Njeri Nderitu**, a data analyst based in Nairobi, Kenya. I have a
 ### 3. Hospital Patient Records Analysis
 [View project](hospital_patient_records_analysis/)
 
+![Hospital records dashboard-style visual](hospital_patient_records_analysis/images/overview.svg)
+
 **Question:** What do hospital encounter patterns, procedure costs, payer coverage and 30-day returns look like?
 
 **Tools:** SQL (MySQL)
@@ -51,7 +53,7 @@ Hi, I'm **Lynn Njeri Nderitu**, a data analyst based in Nairobi, Kenya. I have a
 **Highlights:**
 - Validated 974 patients, 27,891 encounters, 47,701 procedures, 10 payers and one organization.
 - Created clean patient, encounter and procedure views while preserving the original tables.
-- Analysed encounter trends, costs, coverage and patient returns.
+- Analysed encounter trends, costs, coverage and patient returns, with two dashboard-style SVG previews.
 
 ---
 

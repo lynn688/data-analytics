@@ -1,8 +1,8 @@
 # Bank Customer Churn Analysis
 
-An analysis of 10,000 bank customers to find out who is leaving and what they have in common. Data was cleaned and analysed with SQL (MySQL) and presented in an interactive Power BI dashboard.
+An analysis of 10,000 bank customers to find out who is leaving and what they have in common. Data was cleaned and analysed with SQL (MySQL). Dashboard-style SVG previews summarize the findings; they are not screenshots exported from Power BI.
 
-![Dashboard overview](images/dashboard_overview.png)
+![Dashboard overview](images/dashboard_overview.svg)
 
 ## Business Problem
 
@@ -72,17 +72,17 @@ I added grouping columns for age, credit score and balance, and checked the resu
 - Three customers have no age or salary. They are kept and flagged.
 - The three and four product groups are small (266 and 60 customers), so their rates should be treated carefully.
 
-## Dashboard
+## Dashboard-style Visuals
 
-The Power BI dashboard has two pages.
+The visual design has two pages:
 
 | Page | Contents |
 |---|---|
 | Overview | Customers, customers who left and churn rate, with churn by country, age group, gender and activity |
 | Drivers | Churn by number of products, a country by age heatmap, the profile of customers who left, and the highest-risk groups |
 
-![Overview](images/page1_overview.png)
-![Drivers](images/page2_drivers.png)
+![Overview](images/dashboard_overview.svg)
+![Drivers](images/drivers.svg)
 
 ## Project Structure
 
@@ -96,9 +96,9 @@ bank_churn_analysis/
 ├── sql/
 │   ├── cleaning.sql
 │   └── analysis.sql
-├── powerbi/
-│   └── bank_churn_dashboard.pbix
 ├── images/
+│   ├── dashboard_overview.svg
+│   └── drivers.svg
 └── README.md
 ```
 
@@ -106,5 +106,5 @@ bank_churn_analysis/
 
 1. Load the two sheets of `Bank_Churn_Messy.xlsx` into MySQL as `churn_data` and `churn_messy`.
 2. Run `sql/cleaning.sql`, then `sql/analysis.sql`.
-3. Open `powerbi/bank_churn_dashboard.pbix`, which loads `data/churn_clean.csv`.
+3. View the dashboard-style visuals in `images/`; they are generated from `data/churn_clean.csv`.
 

@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="960" viewBox="0 0 1440 960">
+<rect x="0" y="0" width="1440" height="960" rx="0" fill="#F3F6F9" stroke="none"/>
+<rect x="0" y="0" width="1440" height="82" rx="0" fill="#14283F" stroke="none"/>
+<text x="42" y="38" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="27" font-weight="700" text-anchor="start">BANK CUSTOMER CHURN</text>
+<text x="42" y="63" fill="#C6D5E2" font-family="Arial, sans-serif" font-size="13" font-weight="400" text-anchor="start">Retention drivers  |  Segment comparisons and priority groups</text>
+<rect x="36" y="101" width="440" height="105" rx="12" fill="#FFFFFF" stroke="#E6ECF1"/>
+<rect x="36" y="101" width="5" height="105" rx="3" fill="#159C8C" stroke="none"/>
+<text x="58" y="130" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="start">TWO-PRODUCT CHURN</text>
+<text x="58" y="169" fill="#20354B" font-family="Arial, sans-serif" font-size="30" font-weight="700" text-anchor="start">7.6%</text>
+<text x="58" y="191" fill="#6F8091" font-family="Arial, sans-serif" font-size="12" font-weight="400" text-anchor="start">Lowest churn among product groups</text>
+<rect x="500" y="101" width="440" height="105" rx="12" fill="#FFFFFF" stroke="#E6ECF1"/>
+<rect x="500" y="101" width="5" height="105" rx="3" fill="#F0A84A" stroke="none"/>
+<text x="522" y="130" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="start">INACTIVE CHURN</text>
+<text x="522" y="169" fill="#20354B" font-family="Arial, sans-serif" font-size="30" font-weight="700" text-anchor="start">26.9%</text>
+<text x="522" y="191" fill="#6F8091" font-family="Arial, sans-serif" font-size="12" font-weight="400" text-anchor="start">Compared with active customers</text>
+<rect x="964" y="101" width="440" height="105" rx="12" fill="#FFFFFF" stroke="#E6ECF1"/>
+<rect x="964" y="101" width="5" height="105" rx="3" fill="#E46C65" stroke="none"/>
+<text x="986" y="130" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="start">HIGHEST-RISK SEGMENT</text>
+<text x="986" y="169" fill="#20354B" font-family="Arial, sans-serif" font-size="30" font-weight="700" text-anchor="start">88.7%</text>
+<text x="986" y="191" fill="#6F8091" font-family="Arial, sans-serif" font-size="12" font-weight="400" text-anchor="start">France | 60+ | Inactive  |  53 customers</text>
+<rect x="36" y="228" width="672" height="310" rx="12" fill="#FFFFFF" stroke="#E6ECF1"/>
+<text x="56" y="258" fill="#20354B" font-family="Arial, sans-serif" font-size="17" font-weight="700" text-anchor="start">Churn by number of products</text>
+<text x="56" y="279" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start">Small 3- and 4-product groups should be interpreted cautiously</text>
+<text x="56" y="336.725" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">1 product</text>
+<rect x="226" y="321.75" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="321.75" width="96.72324940991346" height="13" rx="4" fill="#F0A84A" stroke="none"/>
+<text x="690" y="336.725" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">27.7%  |  5,084 customers</text>
+<text x="56" y="393.225" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">2 products</text>
+<rect x="226" y="378.25" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="378.25" width="26.460130718954247" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="393.225" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">7.6%  |  4,590 customers</text>
+<text x="56" y="449.725" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">3 products</text>
+<rect x="226" y="434.75" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="434.75" width="288.6466165413534" height="13" rx="4" fill="#E46C65" stroke="none"/>
+<text x="690" y="449.725" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">82.7%  |  266 customers</text>
+<text x="56" y="506.225" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">4 products</text>
+<rect x="226" y="491.25" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="226" y="491.25" width="349" height="13" rx="4" fill="#E46C65" stroke="none"/>
+<text x="690" y="506.225" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">100.0%  |  60 customers</text>
+<rect x="732" y="228" width="672" height="310" rx="12" fill="#FFFFFF" stroke="#E6ECF1"/>
+<text x="752" y="258" fill="#20354B" font-family="Arial, sans-serif" font-size="17" font-weight="700" text-anchor="start">Activity gap across age groups</text>
+<text x="752" y="279" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start">Female/male not shown here; active vs inactive churn rate</text>
+<rect x="1209" y="289" width="9" height="9" rx="2" fill="#159C8C" stroke="none"/>
+<text x="1223" y="298" fill="#6F8091" font-family="Arial, sans-serif" font-size="10" font-weight="400" text-anchor="start">Active</text>
+<rect x="1299" y="289" width="9" height="9" rx="2" fill="#F0A84A" stroke="none"/>
+<text x="1313" y="298" fill="#6F8091" font-family="Arial, sans-serif" font-size="10" font-weight="400" text-anchor="start">Inactive</text>
+<text x="752" y="332.28" fill="#20354B" font-family="Arial, sans-serif" font-size="12" font-weight="600" text-anchor="start">18-29</text>
+<rect x="874" y="310" width="388" height="7" rx="3" fill="#EAF0F5" stroke="none"/>
+<rect x="874" y="310" width="20.86021505376344" height="7" rx="3" fill="#159C8C" stroke="none"/>
+<text x="1271" y="318" fill="#6F8091" font-family="Arial, sans-serif" font-size="10" font-weight="600" text-anchor="start">5.4%</text>
+<rect x="874" y="322" width="388" height="7" rx="3" fill="#EAF0F5" stroke="none"/>
+<rect x="874" y="322" width="38.124378109452735" height="7" rx="3" fill="#F0A84A" stroke="none"/>
+<text x="1271" y="330" fill="#6F8091" font-family="Arial, sans-serif" font-size="10" font-weight="600" text-anchor="start">9.8%</text>
+<text x="752" y="376.08" fill="#20354B" font-family="Arial, sans-serif" font-size="12" font-weight="600" text-anchor="start">30-39</text>
+<rect x="874" y="353.8" width="388" height="7" rx="3" fill="#EAF0F5" stroke="none"/>
+<rect x="874" y="353.8" width="31.68073394495413" height="7" rx="3" fill="#159C8C" stroke="none"/>
+<text x="1271" y="361.8" fill="#6F8091" font-family="Arial, sans-serif" font-size="10" font-weight="600" text-anchor="start">8.2%</text>
+<rect x="874" y="365.8" width="388" height="7" rx="3" fill="#EAF0F5" stroke="none"/>
+<rect x="874" y="365.8" width="52.892791127541585" height="7" rx="3" fill="#F0A84A" stroke="none"/>
+<text x="1271" y="373.8" fill="#6F8091" font-family="Arial, sans-serif" font-size="10" font-weight="600" text-anchor="start">13.6%</text>
+<text x="752" y="419.88" fill="#20354B" font-family="Arial, sans-serif" font-size="12" font-weight="600" text-anchor="start">40-49</text>
+<rect x="874" y="397.6" width="388" height="7" rx="3" fill="#EAF0F5" stroke="none"/>
+<rect x="874" y="397.6" width="87.70515970515972" height="7" rx="3" fill="#159C8C" stroke="none"/>
+<text x="1271" y="405.6" fill="#6F8091" font-family="Arial, sans-serif" font-size="10" font-weight="600" text-anchor="start">22.6%</text>
+<rect x="874" y="409.6" width="388" height="7" rx="3" fill="#EAF0F5" stroke="none"/>
+<rect x="874" y="409.6" width="147.30659025787966" height="7" rx="3" fill="#F0A84A" stroke="none"/>
+<text x="1271" y="417.6" fill="#6F8091" font-family="Arial, sans-serif" font-size="10" font-weight="600" text-anchor="start">38.0%</text>
+<text x="752" y="463.67999999999995" fill="#20354B" font-family="Arial, sans-serif" font-size="12" font-weight="600" text-anchor="start">50-59</text>
+<rect x="874" y="441.4" width="388" height="7" rx="3" fill="#EAF0F5" stroke="none"/>
+<rect x="874" y="441.4" width="143.93548387096772" height="7" rx="3" fill="#159C8C" stroke="none"/>
+<text x="1271" y="449.4" fill="#6F8091" font-family="Arial, sans-serif" font-size="10" font-weight="600" text-anchor="start">37.1%</text>
+<rect x="874" y="453.4" width="388" height="7" rx="3" fill="#EAF0F5" stroke="none"/>
+<rect x="874" y="453.4" width="315.1849865951742" height="7" rx="3" fill="#F0A84A" stroke="none"/>
+<text x="1271" y="461.4" fill="#6F8091" font-family="Arial, sans-serif" font-size="10" font-weight="600" text-anchor="start">81.2%</text>
+<text x="752" y="507.47999999999996" fill="#20354B" font-family="Arial, sans-serif" font-size="12" font-weight="600" text-anchor="start">60+</text>
+<rect x="874" y="485.2" width="388" height="7" rx="3" fill="#EAF0F5" stroke="none"/>
+<rect x="874" y="485.2" width="48.616867469879516" height="7" rx="3" fill="#159C8C" stroke="none"/>
+<text x="1271" y="493.2" fill="#6F8091" font-family="Arial, sans-serif" font-size="10" font-weight="600" text-anchor="start">12.5%</text>
+<rect x="874" y="497.2" width="388" height="7" rx="3" fill="#EAF0F5" stroke="none"/>
+<rect x="874" y="497.2" width="332.0720720720721" height="7" rx="3" fill="#F0A84A" stroke="none"/>
+<text x="1271" y="505.2" fill="#6F8091" font-family="Arial, sans-serif" font-size="10" font-weight="600" text-anchor="start">85.6%</text>
+<rect x="36" y="554" width="672" height="310" rx="12" fill="#FFFFFF" stroke="#E6ECF1"/>
+<text x="56" y="584" fill="#20354B" font-family="Arial, sans-serif" font-size="17" font-weight="700" text-anchor="start">Highest-risk segments</text>
+<text x="56" y="605" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start">Top segments with at least 50 customers</text>
+<text x="56" y="644.3625" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">France | 60+ | Inactive</text>
+<rect x="251" y="633.625" width="324" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="251" y="633.625" width="287.3207547169811" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="644.3625" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">88.7%  |  53 customers</text>
+<text x="56" y="672.6125" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Germany | 50-59 | Inactive</text>
+<rect x="251" y="661.875" width="324" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="251" y="661.875" width="279.6164383561644" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="672.6125" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">86.3%  |  146 customers</text>
+<text x="56" y="700.8625" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Spain | 50-59 | Inactive</text>
+<rect x="251" y="690.125" width="324" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="251" y="690.125" width="254.88" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="700.8625" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">78.7%  |  75 customers</text>
+<text x="56" y="729.1125" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">France | 50-59 | Inactive</text>
+<rect x="251" y="718.375" width="324" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="251" y="718.375" width="251.5263157894737" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="729.1125" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">77.6%  |  152 customers</text>
+<text x="56" y="757.3625" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Germany | 40-49 | Inactive</text>
+<rect x="251" y="746.625" width="324" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="251" y="746.625" width="168.2608695652174" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="757.3625" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">51.9%  |  414 customers</text>
+<text x="56" y="785.6125" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Germany | 50-59 | Active</text>
+<rect x="251" y="774.875" width="324" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="251" y="774.875" width="168.18320610687024" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="785.6125" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">51.9%  |  131 customers</text>
+<text x="56" y="813.8625" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Germany | 40-49 | Active</text>
+<rect x="251" y="803.125" width="324" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="251" y="803.125" width="118.63384615384615" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="813.8625" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">36.6%  |  325 customers</text>
+<text x="56" y="842.1125" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">France | 50-59 | Active</text>
+<rect x="251" y="831.375" width="324" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="251" y="831.375" width="111.28695652173914" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="690" y="842.1125" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">34.3%  |  230 customers</text>
+<rect x="732" y="554" width="672" height="310" rx="12" fill="#FFFFFF" stroke="#E6ECF1"/>
+<text x="752" y="584" fill="#20354B" font-family="Arial, sans-serif" font-size="17" font-weight="700" text-anchor="start">Churn by balance status</text>
+<text x="752" y="605" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start">Germany has no zero-balance customers; compare like with like</text>
+<text x="752" y="699.45" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Has balance</text>
+<rect x="922" y="676" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="676" width="280.12585513603847" height="13" rx="4" fill="#F0A84A" stroke="none"/>
+<text x="1386" y="699.45" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">24.1%  |  6,383 customers</text>
+<text x="752" y="812.45" fill="#20354B" font-family="Arial, sans-serif" font-size="11.5" font-weight="600" text-anchor="start">Zero balance</text>
+<rect x="922" y="789" width="349" height="13" rx="4" fill="#EAF0F5" stroke="none"/>
+<rect x="922" y="789" width="160.8146714588517" height="13" rx="4" fill="#159C8C" stroke="none"/>
+<text x="1386" y="812.45" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="600" text-anchor="end">13.8%  |  3,617 customers</text>
+<text x="42" y="940" fill="#6F8091" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start">Source: bank_churn_analysis/data/churn_clean.csv  |  Small segments are not evidence of cause.</text>
+<text x="1398" y="940" fill="#6F8091" font-family="Arial, sans-serif" font-size="10" font-weight="700" text-anchor="end">DATA ANALYTICS PORTFOLIO</text>
+</svg>
