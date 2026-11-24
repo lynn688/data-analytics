@@ -57,10 +57,7 @@ Hi, I'm **Lynn Njeri Nderitu**, a data analyst based in Nairobi, Kenya. I have a
 
 ---
 
-### 4. Python project (coming soon)
-Exploratory data analysis and visualisation with Python (pandas, Matplotlib) in a Jupyter notebook.
 
----
 
 ## How each project is organised
 

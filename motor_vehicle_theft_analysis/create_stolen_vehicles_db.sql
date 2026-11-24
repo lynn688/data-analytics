@@ -1,6 +1,3 @@
-DROP SCHEMA IF EXISTS stolen_vehicles_db;
-CREATE SCHEMA stolen_vehicles_db;
-USE stolen_vehicles_db;
 
 --
 -- Table structure for table `stolen_vehicles`
@@ -44,6 +41,8 @@ CREATE TABLE make_details (
 
 --
 -- Insert data into table stolen_vehicles
+
+SELECT COUNT(*), MIN(vehicle_id), MAX(vehicle_id) FROM stolen_vehicles;
 --
 
 INSERT INTO stolen_vehicles (vehicle_id, vehicle_type, make_id, model_year,
@@ -4619,7 +4618,7 @@ INSERT INTO locations VALUES (101, 'Northland', 'New Zealand', 201500, 16.11),
 (103, 'Waikato', 'New Zealand', 513800, 21.5),
 (104, 'Bay of Plenty', 'New Zealand', 347700, 28.8),
 (105, 'Gisborne', 'New Zealand', 52100, 6.21),
-(106, "Hawke's Bay", 'New Zealand', 182700, 12.92),
+(106, 'Hawke''s Bay', 'New Zealand', 182700, 12.92),
 (107, 'Taranaki', 'New Zealand', 127300, 17.55),
 (108, 'Manawatū-Whanganui', 'New Zealand', 258200, 11.62),
 (109, 'Wellington', 'New Zealand', 543500, 67.52),
